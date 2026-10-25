@@ -1,7 +1,7 @@
 name: cadcraft
 title: CADCraft
 base: core24
-version: '0.12.0'
+version: '0.13.0'
 summary: Draft, dimension and plot 2D drawings
 description: |
   CADCraft is an open-source, native computer-aided design and drafting application with a familiar command line, object snaps, layers, dimensions, hatches and blocks. It opens and saves DXF and DWG drawings and exports SVG and PNG.
